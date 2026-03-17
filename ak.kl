@@ -70,11 +70,7 @@
                 <div class="card-grid three-up">
                     <article class="info-card">
                         <h3>Plain workflows</h3>
-                        <p>Zoro favors clear release stages and ownership over hidden automation and opaque orchestration.</p>
-                    </article>
-                    <article class="info-card">
-                        <h3>Production accountability</h3>
-                        <p>Every service should have visible ownership, active 
+                        <p>Zoro favors clear release stages and ownership over hidden automation and opaque e visible ownership, active 
  
 </body>
 </html>
