@@ -74,13 +74,7 @@
                     </article>
                     <article class="info-card">
                         <h3>Production accountability</h3>
-                        <p>Every service should have visible ownership, active health signals, and deployment history you can inspect.</p>
-                    </article>
-                    <article class="info-card">
-                        <h3>Practical integration</h3>
-                        <p>The platform is meant to fit existing repos and team habits rather than force a full rebuild of tooling.</p>
-                    </article>
-                </div>
+                        <p>Every service should have visible ownership, active health signals, and 
             </div>
         </section>
     </main>
