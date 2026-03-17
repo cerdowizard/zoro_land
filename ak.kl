@@ -55,7 +55,4 @@
                     </article>
                     <article class="stack-item">
                         <h3>Self-service needs guardrails</h3>
-                        <p>Teams need autonomy, but production systems still need ownership, approvals, and traceability.</p>
-                    </article>
-                    <article class="stack-item">
-                        <h3>Operations is part of 
+                        <p>Teams need autonomy, but production systems still 
