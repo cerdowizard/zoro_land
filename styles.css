@@ -32,6 +32,7 @@
     --shadow: 0 18px 60px rgba(24, 30, 25, 0.1);
     --radius: 22px;
 }
+
 body[data-theme="dark"] {
     --bg: #0d1311;
     --surface: #131a17;
