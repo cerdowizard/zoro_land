@@ -88,11 +88,7 @@
     <footer class="site-footer">
         <div class="container footer-grid">
             <div>
-                <a href="index.html" class="brand-mark brand-footer">Zoro</a>
-                <p class="footer-copy">Release infrastructure for teams that need deployments to stay fast and accountable.</p>
-            </div>
-            <div>
-                <h4>Product</h4>
+              <h4>Product</h4>
                 <a href="platform.html">Platform</a>
                 <a href="pricing.html">Pricing</a>
                 <a href="contact.html">Demo</a>
